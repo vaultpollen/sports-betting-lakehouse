@@ -1,0 +1,5 @@
+[project]
+name = "sports-betting-lakehouse"
+version = "0.1.0"
+description "A Lakehouse platform for sports, DFS, and betting market analytics"
+requires-python = ">=3.11"
